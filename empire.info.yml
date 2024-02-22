@@ -1,0 +1,11 @@
+name: Empire Rhythmic Gymnastics
+type: theme
+description: Empire Rhythmic Gymnastics is a newly founded rhythmic gymnastics club started by four passionate individuals devoted to bringing high quality recreational and competitive gymnastics to New York City. 
+package: custom
+colon: 8.x
+libraries:
+  -empire/style
+regions:
+  myheader: My Header
+  content: Content
+  slider: Slider
